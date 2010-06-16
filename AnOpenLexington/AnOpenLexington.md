@@ -8,4 +8,6 @@ The idea of a government constructed by, for, and accountable to the people is n
 
 But sometimes, there is resistance. Sometimes, there are difficulties in the release of information. Perhaps, that's just the way of things. Rather, that's the way things were. 
 
-Now information is stored digitally. Information stored in databases hidden in the back office closet, stored in massive warehouse data centers, information on tiny flash drives. The distribution of knowledge and information has never before been so effortless. 
+Information is stored digitally. This information is stored in database servers hidden in the back office closet, stored in massive data centers, stored on tiny flash drives. The distribution of knowledge and information has never before been so effortless. 
+
+If government information is public domain and the distribution of this information can so easily be accessed through web infrastructure then all it is reasonable that all of this information should be publicly available online.
