@@ -10,4 +10,4 @@ But sometimes, there is resistance. Sometimes, there are difficulties in the rel
 
 Information is stored digitally. This information is stored in database servers hidden in the back office closet, stored in massive data centers, stored on tiny flash drives. The distribution of knowledge and information has never before been so effortless. 
 
-If government information is public domain and the distribution of this information can so easily be accessed through web infrastructure then all it is reasonable that all of this information should be publicly available online.
+If government information is public domain and the distribution of this information can so easily be accessed through web infrastructure then all it is reasonable that all of this information should be publicly   available online.
