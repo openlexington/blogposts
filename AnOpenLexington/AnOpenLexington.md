@@ -19,3 +19,5 @@ Lexington is a great city to live, work, and raise a family.
 Lexington is a perfect model for local transparency of mid-sized cities.
 
 Transparency benefits the people. Complete transparency and open government data benefits local businesses, university scholars, 
+
+<< where to introduce openlexington? >>
