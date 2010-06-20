@@ -1,6 +1,7 @@
 # An Open Lexington
 
-Draft started: 6.14.10
+First draft started: 6.14.10
+Rough draft started: 6.20.10
 
 Authors: Chase Southard, << add authors >>
 
