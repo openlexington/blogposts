@@ -1,8 +1,17 @@
 # An Open Lexington
 
-Draft started: 6.14.10
+First draft started: 6.14.10
+
+Rough draft started: 6.20.10
 
 Authors: Chase Southard, << add authors >>
+
+<< narrative >>
+
+Despite our individual political viewpoints, we can likely agree on one practical point. Government data belongs to the people. Just as we assert that government representatives work for the people, so too the data that government agencies generate should be made available to the people. It makes sense that a popular representative government is held to account. The Freedom of Information Act (1966) and OPEN Government Act (2007) are some examples of legislative initiative to make information and data accessible to the public. However, the mechanism whereby a citizen must make a formal request appears inefficient for most data. In an era where information has never been more accessible and whose distribution has never before been so effortless, it seems reasonable that all public information should be publicly available online for bulk download, available in an open machine readable format, and legally repurposed. However, sometimes there is resistance to open data. Sometimes, there are difficulties in the release of information. Sometimes bureaucracy, politics, or special interests get in the way of transparency. Sometimes advocacy is required.
+
+Here, we would like to introduce OpenLexington (ligature or not? consensus?). OpenLexington is a non-profit, non-partisan organization that is working to promote local transparency and empower citizen through open data. We are working closely with the Lexington Fayette Urban County Government to request that public data be distributed 
+
 
 << loosely connected ideas; audience?; message? >>
 
