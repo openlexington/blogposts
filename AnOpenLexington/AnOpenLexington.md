@@ -1,10 +1,7 @@
 # An Open Lexington
 
 First draft started: 6.14.10
-<<<<<<< HEAD:AnOpenLexington/AnOpenLexington.md
-=======
 
->>>>>>> roughdraft:AnOpenLexington/AnOpenLexington.md
 Rough draft started: 6.20.10
 
 Authors: Chase Southard, << add authors >>
