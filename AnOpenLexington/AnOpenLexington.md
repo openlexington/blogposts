@@ -6,7 +6,7 @@ Rough draft started: 6.20.10
 
 Authors: Chase Southard, << add authors >>
 
-<< narrative >>
+<< rough draft / narrative >>
 
 An Open Lexington
 
