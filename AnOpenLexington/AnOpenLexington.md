@@ -6,7 +6,7 @@ Rough draft started: 6.20.10
 
 Modified by David Rhodus: 6.23.10
 
-Authors: Chase Southard, David Rhodus, << add authors >>
+Authors: Chase Southard, David Rhodus, Lindsey Upton, << add authors >>
 
 << rough draft / narrative >>
 
